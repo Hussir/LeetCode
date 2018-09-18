@@ -1,2 +1,2 @@
 # LeetCode
-Algorithm questions of LeetCode
+- Continuously update the algorithm questions in LeetCode
