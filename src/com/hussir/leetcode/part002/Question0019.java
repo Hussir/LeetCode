@@ -1,6 +1,6 @@
-package com.hussir.part002;
+package com.hussir.leetcode.part002;
 
-import com.hussir.datastructure.ListNode;
+import com.hussir.leetcode.datastructure.ListNode;
 
 /**
  * Description:

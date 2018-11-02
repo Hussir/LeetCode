@@ -1,4 +1,4 @@
-package com.hussir.part002;
+package com.hussir.leetcode.part002;
 
 /**
  * Description:

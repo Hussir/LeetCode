@@ -1,4 +1,4 @@
-package com.hussir.datastructure;
+package com.hussir.leetcode.datastructure;
 
 public class ListNode {
 

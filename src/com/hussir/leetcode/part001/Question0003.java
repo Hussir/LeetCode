@@ -1,4 +1,4 @@
-package com.hussir.part001;
+package com.hussir.leetcode.part001;
 
 import java.util.ArrayList;
 import java.util.Arrays;
